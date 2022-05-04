@@ -1,0 +1,19 @@
+{
+"ID": "1",
+  
+"Title": "The link Everton leads to a page with the 404 error",
+  
+"SEVERITY": "High",
+ 
+"ISSUE TYPE": "Functional"
+ 
+"FREQUENCY": "Every Time",
+ 
+"ENVIRONMENT": "Windows 7 - Chrome",
+  
+"ACTION PERFORMED": "1. Open https://www.londonworld.com/ 2. Scroll down 3. Click on How the Peckham BMX track became part of the Olympics medal factory 4. Scroll down 5. Click on Everton",
+
+"EXPECTED RESULT": "The user will go to the Everton section",
+
+"ACTUAL RESULT": "The user goes to the page with the error 404"
+}
